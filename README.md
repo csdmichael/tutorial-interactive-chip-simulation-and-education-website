@@ -1,0 +1,2 @@
+# tutorial-interactive-chip-simulation-and-education-website
+Students, educators, and electronics enthusiasts need an accessible way to learn digital logic and processor architecture without installing specialist desktop software or purchasing hardware. Interactive Chip Lab will let users design, simulate, debug, save, and share digital circuits and simplified microprocessors directly in a modern browser, wh
